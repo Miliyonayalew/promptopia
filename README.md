@@ -1,34 +1,85 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Tailwind Landing Page
+<a name="readme-top"></a>
 
-## Getting Started
+# 📗 Table of Contents
 
-First, run the development server:
+- [Tailwind Landing Page](#tailwind-landing-page)
+- [📗 Table of Contents](#-table-of-contents)
+- [📖 Promptopia ](#-promptopia-)
+  - [🛠 Built With ](#-built-with-)
+    - [Tech Stack ](#tech-stack-)
+  - [🚀 Live Demo ](#-live-demo-)
+  - [Author ](#author-)
+  - [🤝 Contributing ](#-contributing-)
+  - [⭐️ Show your support ](#️-show-your-support-)
+  - [🙏 Acknowledgments ](#-acknowledgments-)
+  - [📝 License ](#-license-)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+<!-- PROJECT DESCRIPTION -->
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+# 📖 Promptopia <a name="about-project"></a>
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+**Landing Page** Tailwind Landing page is the first project that i built using tailwind css. I built this project to practice tailwind css and to get familiar with it. I learned a lot from this project and i am looking forward to build more projects using tailwind css.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## 🛠 Built With <a name="built-with"></a>
 
-## Learn More
+### Tech Stack <a name="tech-stack"></a>
 
-To learn more about Next.js, take a look at the following resources:
+<details>
+  <summary>Editor</summary>
+  <ul>
+    <li><a href="https://code.visualstudio.com/">VSCODE Editor</a></li>
+  </ul>
+</details>
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+<details>
+  <summary>Frontend</summary>
+  <ul>
+    <li><a href="https://reactjs.org/">React</a></li>
+    <li><a href="https://tailwindcss.com/">Tailwind</a></li>
+    <li><a href="https://vitejs.dev/guide/">VITE</a></li>
+  </ul>
+</details>
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🚀 Live Demo <a name="live-demo"></a>
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+[Live](https://tw-landing.netlify.app/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Author <a name="authors"></a>
+
+**Miliyon Ayalew**
+- GitHub:[@githubhandle](https://github.com/Miliyonayalew/) 
+- Twitter:[@twitterhandle](https://twitter.com/MilaAyalew) 
+- LinkedIn:[LinkedIn](https://www.linkedin.com/in/miliyon-ayalew-210808131/) 
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/Miliyonayalew/tailwind-landing/issues).
+
+
+## ⭐️ Show your support <a name="support"></a>
+
+Give a ⭐️ if you like this project!
+
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+- My loving family 😊
+- My partners from Microverse
+- Inspiration, Dedication
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE.md) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
