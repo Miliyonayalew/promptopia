@@ -19,8 +19,7 @@
 
 # 📖 Promptopia <a name="about-project"></a>
 
-**Landing Page** Tailwind Landing page is the first project that i built using tailwind css. I built this project to practice tailwind css and to get familiar with it. I learned a lot from this project and i am looking forward to build more projects using tailwind css.
-
+**Promptopia** Promptopia is an open-source AI prompting tool for modern world to discover, create and share creative prompts. It is an app built with Next13, TailwindCSS for a creative people to find inspiration and share their prompt work with others. 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
@@ -35,9 +34,9 @@
 <details>
   <summary>Frontend</summary>
   <ul>
-    <li><a href="https://reactjs.org/">React</a></li>
+    <li><a href="https://reactjs.org/">Next.js</a></li>
     <li><a href="https://tailwindcss.com/">Tailwind</a></li>
-    <li><a href="https://vitejs.dev/guide/">VITE</a></li>
+    <li><a href="https://vitejs.dev/guide/">Node</a></li>
   </ul>
 </details>
 
@@ -45,7 +44,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-[Live](https://tw-landing.netlify.app/)
+[Live](https://promptopia-puce-ten.vercel.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
